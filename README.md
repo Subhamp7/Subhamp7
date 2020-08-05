@@ -5,8 +5,6 @@
 - 🌱 Learning Deep Learning Models and NLP
 - 👯 I'm also a Google Local Guide Level 8
 
----
-
 ### Connect with me:
 [<img align="left" alt="Subham | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][LinkedIn]
 [<img align="left" alt="Subham | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][Kaggle]
@@ -24,7 +22,7 @@
 
 <br/>
 
-## [Here's my Resume](https://subhamp7.github.io/Resume/)
+
 
 ---
 
@@ -37,6 +35,8 @@
 <img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamp7&hide=Perl&layout=compact)](https://github.com/Subhamp7/github-readme-stats)
+
+## [Here's my Resume](https://subhamp7.github.io/Resume/)
 
 [LinkedIn]: https://www.linkedin.com/in/subhamp7/
 [Kaggle]:   https://www.kaggle.com/subhamp7
