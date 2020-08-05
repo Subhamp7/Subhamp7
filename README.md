@@ -12,11 +12,6 @@
 [<img align="left" alt="Subham | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][Kaggle]
 
 <br/>
----
-
-## [Here's my Resume](https://subhamp7.github.io/Resume/)
-
----
 
 ### Languages and Tools:
 [<img align="left"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Github]
@@ -27,6 +22,10 @@
 [<img align="left"  width="26px" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" />][Github]
 [<img align="left"  width="26px" src="https://www.todesktop.com/images/1c2437c139969ae8e4100b477fb824f1.svg" />][Github]
 
+<br/>
+
+## [Here's my Resume](https://subhamp7.github.io/Resume/)
+
 ---
 
 ### Some of my exciting Projects:
@@ -36,6 +35,7 @@
 
 <!-- Source : https://github.com/anuraghazra/github-readme-stats. -->
 <img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues&count_private=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamp7&hide=Perl&layout=compact)](https://github.com/Subhamp7/github-readme-stats)
 
 [LinkedIn]: https://www.linkedin.com/in/subhamp7/
