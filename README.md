@@ -26,9 +26,10 @@
 ### Projects:
 [Heart Disease Analysis](https://heart-analysis.herokuapp.com)
 
-##[Here's my Resume](https://subhamp7.github.io/Resume/)
+## [Here's my Resume](https://subhamp7.github.io/Resume/)
 
 <br />
+
 ---
 <img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true" />
 
