@@ -29,7 +29,7 @@
 ---
 
 <!-- Source : https://github.com/anuraghazra/github-readme-stats. -->
-<img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true&theme=buefy&hide=prs,issues&count_private=true" />
+<img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true&theme=vue&hide=prs,issues&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamp7&hide=Perl&layout=compact&card_width=450)](https://github.com/Subhamp7/github-readme-stats)
 
