@@ -21,6 +21,7 @@
 [<img align="left"  width="26px" src="https://www.todesktop.com/images/1c2437c139969ae8e4100b477fb824f1.svg" />][Github]
 
 <br/>
+<br/>
 
 ### Some of my exciting Projects:
  [Heart Disease Analysis](https://heart-analysis.herokuapp.com)
