@@ -33,7 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamp7&hide=Perl&layout=compact&card_width=450)](https://github.com/Subhamp7/github-readme-stats)
 
-## [Here's my Resume](https://subhamp7.github.io/Resume/)
+## [Here's my Resume](https://subhamp7.github.io/Subhamp7/)
 
 [LinkedIn]: https://www.linkedin.com/in/subhamp7/
 [Kaggle]:   https://www.kaggle.com/subhamp7
