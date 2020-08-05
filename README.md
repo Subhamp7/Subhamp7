@@ -1,8 +1,9 @@
 ### Hi there, I'm Subham Prasad 👋
 
 ## I'm a Machine Learning Engineer
-- 🔭 I’m currently working on everything 🤣
-- 🌱 I’m currently learning Deep Learning Models
+
+- 🔭 Currently working on everything 🤣
+- 🌱 Learning Deep Learning Models and NLP
 - 👯 I'm also a Google Local Guide Level 8
 
 ### Connect with me:
@@ -14,7 +15,6 @@
 
 ### Languages and Tools:
 
-
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
 [<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/7e/20180730220810%21Spyder_logo.svg/120px-Spyder_logo.svg.png" />]
 [<img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />]
@@ -24,10 +24,9 @@
 <br />
 <br />
 
----
-
-
-<img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true" />
 [My Resume](https://subhamp7.github.io/Resume/)
+---
+<img align="left" alt="Subham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subhamp7&show_icons=true&hide_border=true" />
+
 
 
