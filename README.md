@@ -11,6 +11,7 @@
 [<img align="left" alt="Subham | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][LinkedIn]
 [<img align="left" alt="Subham | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][Kaggle]
 
+<br/>
 ---
 
 ## [Here's my Resume](https://subhamp7.github.io/Resume/)
