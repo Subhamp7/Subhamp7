@@ -37,6 +37,8 @@
 
 ## [Here's my Resume](https://subhamp7.github.io/Subhamp7/)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=subhamp7)
+
 [LinkedIn]: https://www.linkedin.com/in/subhamp7/
 [Kaggle]:   https://www.kaggle.com/subhamp7
 [Github]:   https://github.com/Subhamp7
