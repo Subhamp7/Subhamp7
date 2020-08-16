@@ -26,7 +26,7 @@
 <br/>
 
 ### Some of my exciting Projects:
- [Heart Disease Analysis](https://heart-analysis.herokuapp.com)
+ [Heart Disease Analysis](https://heart-analysis.herokuapp.com) <br/>
  [Quotes Scraping](https://quote-scraping.herokuapp.com/)
 
 ---
