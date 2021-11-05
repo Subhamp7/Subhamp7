@@ -2,7 +2,7 @@
 
 <img src="https://thumbs.gfycat.com/LightConstantBuckeyebutterfly-size_restricted.gif"  width="400" height="300" />
 
-## I'm a Machine Learning Engineer
+## I'm a Data Scientist
 - 🔭 Currently working on everything 🤣
 - 🌱 Learning Deep Learning Models and NLP
 - 👯 I'm also a Google Local Guide Level 8
